@@ -1,0 +1,24 @@
+
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'myFont';
+  src: url('./assets/fonts/font1.woff2') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}   
+
+ul {
+  font-family: 'myFont', sans-serif;
+}   
+
+h3{
+  font-family: 'myFont', sans-serif;
+}   
+
+h3{
+  font-family: 'myFont', sans-serif;
+} 
+p{
+  font-family: 'myFont', sans-serif;
+} 
